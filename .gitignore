@@ -6,3 +6,4 @@ train.csv
 train.ftr
 .ipynb_checkpoints/titanic_xfeat-checkpoint.ipynb
 gender_submission.csv
+*.csv
